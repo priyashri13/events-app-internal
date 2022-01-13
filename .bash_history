@@ -12,3 +12,8 @@ git config --global user.name "priyashri13"
 git config --global --list
 git init
 git add
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/priyashri13/events-app-internal.git
+git push -u origin master
+git init
